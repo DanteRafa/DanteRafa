@@ -1,5 +1,5 @@
-Hi, I'm Rafael Dante! 👋
-🔥 Software Engineering Student grinding hard to make something cool
+Hi, I'm Rafael Dante! 👋<br>
+🔥 Software Engineering Student grinding hard to make something cool<br>
 📓 I’m currently learning JavaScript, React, Node, MySQL ...
 
 <!---
